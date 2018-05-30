@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">主题切换</string>
+    <string name="app_btn">知道了</string>
+    <string name="app_txt">Android 提供了一个自适应应用框架，可用以为不同的设备配置提供独特的资源。例如，您可以针对不同的屏幕尺寸创建不同的 XML 布局文件，系统将根据当前设备的屏幕尺寸确定要应用的布局。
+
+如有任何应用功能需要相机等特定的硬件，则可在运行时查询设备功能的可用性。如有必要，您还可以声明您的应用所必需的功能，使 Google Play 商店等应用市场不得在不支持这些功能的设备上安装您的应用。</string>
+
+</resources>

@@ -1,0 +1,83 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="Black" parent="android:Theme.Material">
+        <item name="android:colorPrimaryDark">@color/status_grey</item>
+        <item name="android:statusBarColor">@color/status_grey</item>
+        <item name="android:colorPrimary">@color/action_grey</item>
+        <item name="android:windowBackground">@color/window_bg_grey</item>
+        <item name="android:navigationBarColor">@color/navigation_grey</item>
+        <item name="android:colorForeground">@color/fg_grey</item>
+        <item name="android:colorBackground">@color/bg_grey</item>
+        <item name="android:colorAccent">@color/control_activated_grey</item>
+        <item name="android:colorControlNormal">@color/control_normal_grey</item>
+        <item name="android:colorControlHighlight">@color/control_highlight_grey</item>
+        <item name="android:colorControlActivated">@color/control_activated_grey</item>
+        <item name="android:colorButtonNormal">@color/button_normal_grey</item>
+        <item name="android:textColor">@color/white_text</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/white_text</item>
+        <item name="android:textColorPrimary">@color/white_text</item>
+    </style>
+
+    <style name="Blue" parent="android:Theme.Material">
+        <item name="android:colorPrimaryDark">@color/status_blue</item>
+        <item name="android:statusBarColor">@color/status_blue</item>
+        <item name="android:colorPrimary">@color/action_blue</item>
+        <item name="android:windowBackground">@color/window_bg_blue</item>
+        <item name="android:navigationBarColor">@color/navigation_blue</item>
+        <item name="android:colorForeground">@color/fg_blue</item>
+        <item name="android:colorBackground">@color/bg_blue</item>
+        <item name="android:colorAccent">@color/control_activated_blue</item>
+        <item name="android:colorControlNormal">@color/control_normal_blue</item>
+        <item name="android:colorControlHighlight">@color/control_highlight_blue</item>
+        <item name="android:colorControlActivated">@color/control_activated_blue</item>
+        <item name="android:colorButtonNormal">@color/button_normal_blue</item>
+        <item name="android:textColor">@color/white_text</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/white_text</item>
+        <item name="android:textColorPrimary">@color/white_text</item>
+    </style>
+
+    <style name="Green" parent="android:Theme.Material">
+        <item name="android:colorPrimaryDark">@color/status_light_green</item>
+        <item name="android:statusBarColor">@color/status_light_green</item>
+        <item name="android:colorPrimary">@color/action_light_green</item>
+        <item name="android:windowBackground">@color/window_bg_light_green</item>
+        <item name="android:navigationBarColor">@color/navigation_light_green</item>
+        <item name="android:colorForeground">@color/fg_light_green</item>
+        <item name="android:colorBackground">@color/bg_light_green</item>
+        <item name="android:colorAccent">@color/control_activated_light_green</item>
+        <item name="android:colorControlNormal">@color/control_normal_light_green</item>
+        <item name="android:colorControlHighlight">@color/control_highlight_light_green</item>
+        <item name="android:colorControlActivated">@color/control_activated_light_green</item>
+        <item name="android:colorButtonNormal">@color/button_normal_light_green</item>
+        <item name="android:textColor">@color/white_text</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/white_text</item>
+        <item name="android:textColorPrimary">@color/white_text</item>
+    </style>
+
+    <style name="Yellow" parent="android:Theme.Material">
+        <item name="android:colorPrimaryDark">@color/status_lime</item>
+        <item name="android:statusBarColor">@color/status_lime</item>
+        <item name="android:colorPrimary">@color/action_lime</item>
+        <item name="android:windowBackground">@color/window_bg_lime</item>
+        <item name="android:navigationBarColor">@color/navigation_lime</item>
+        <item name="android:colorForeground">@color/fg_lime</item>
+        <item name="android:colorBackground">@color/bg_lime</item>
+        <item name="android:colorAccent">@color/control_activated_lime</item>
+        <item name="android:colorControlNormal">@color/control_normal_lime</item>
+        <item name="android:colorControlHighlight">@color/control_highlight_lime</item>
+        <item name="android:colorControlActivated">@color/control_activated_lime</item>
+        <item name="android:colorButtonNormal">@color/button_normal_lime</item>
+        <item name="android:textColor">@color/white_text</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/white_text</item>
+        <item name="android:textColorPrimary">@color/white_text</item>
+    </style>
+</resources>
